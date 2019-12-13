@@ -7,7 +7,7 @@
     "template",
     "rocketseat"
   ],
-  "description": "Template para projetos em React, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier, React Navigation, Reactotron e Axios configurados.",
+  "description": "Template para projetos em React, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier, React Router, Reactotron e Axios configurados.",
   "main": "template.json",
   "repository": {
     "type": "git",
