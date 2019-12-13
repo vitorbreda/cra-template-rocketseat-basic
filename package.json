@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-rocketseat-basic",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "rocketseat",
+  ],
+  "description": "Template para projetos em React, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier, React Navigation, Reactotron e Axios configurados.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorbreda/cra-template-rocketseat-basic"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorbreda/cra-template-rocketseat-basic/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
